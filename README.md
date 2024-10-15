@@ -1,3 +1,4 @@
 # New Project
 
-This project was created was local system
+This project was created was local system.
+Created by Robin Rajratn.
